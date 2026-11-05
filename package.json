@@ -12,6 +12,7 @@
     "test": "npm run build && node --test tests/*.test.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "motion": "^14.1.0",
     "react": "^19.1.0",
